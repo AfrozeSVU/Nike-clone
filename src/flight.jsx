@@ -223,7 +223,7 @@ export const FlightSearch = () => {
         />
       )}
     </div>
-    <div className="col-12 col-md-2 absolute right-[2vw] h-[60px] text-center  flex justify-center items-center">
+    <div className="col-12 col-md-2 absolute right-[2vw] h-[60px] text-center  flex justify-center items-center ">
     <button
         className="text-white hover:bg-slate-700 bg-slate-950 font-roboto text-center h-[50px] w-[80px]    rounded-md text-sm flex justify-center items-center"
         onClick={searchResults}

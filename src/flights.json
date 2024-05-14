@@ -1,4 +1,4 @@
-{"flights": [
+ [
   {
     "flight_date": "2022-01-15",
     "flight_status": "active",
@@ -512,4 +512,4 @@
       "time_difference": "2h 50m"
     }
   ]
-  }
+  

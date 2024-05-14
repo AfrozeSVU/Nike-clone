@@ -225,13 +225,14 @@ return(
 
 <div className="flex gap-[11px] absolute top-[32vh] left-[25vw]   ">
               <div className="h-[100px]  w-[150px] border-2 border-black">
-                  <p>ddkgjgef</p>
+                  <p>Best</p>
               </div>
               <div className="h-[100px]  w-[150px] border-2 border-black">
-                <p>fhgejb</p>
-              </div>   
-              <FlightCards /> 
+                <p>Outboard</p>
+              </div> 
 
+              <FlightCards />       
+              
 </div>
 
 
@@ -242,7 +243,7 @@ return(
 
 
     
-    
+ 
     </>
 
 
